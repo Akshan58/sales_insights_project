@@ -1,1 +1,2 @@
-# sales_insights_project using MySQL and PowerBI
+# sales_insights_project 
+sales insights project using MySQL and PowerBI
